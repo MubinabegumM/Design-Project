@@ -30,8 +30,3 @@ OCR: Tesseract
 Database: MySQL / Firebase
 
 
-Run Locally
-
-git clone https://github.com/yourusername/medisense.git
-cd medisense
-python app.py
